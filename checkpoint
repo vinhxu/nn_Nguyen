@@ -1,0 +1,2 @@
+model_checkpoint_path: ".1nn_validation_Loss0.27_Accuracy92.7%.ckpt"
+all_model_checkpoint_paths: ".1nn_validation_Loss0.27_Accuracy92.7%.ckpt"
